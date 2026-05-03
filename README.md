@@ -1,4 +1,6 @@
-<img align="left" alt="Coding" width="270" src="https://media1.tenor.com/m/Q2pBPCaR_tcAAAAC/piza-ninjas-pizzaninjas.gif" style="border-radius: 12px; margin-right: 20px;" />
+<table>
+<tr>
+<td width="55%" valign="top">
 
 <h1>Hi 👋, I'm Shainti</h1>
 <h3>Full-Stack Developer · MERN Stack · AI/LLM Integration</h3>
@@ -25,7 +27,14 @@
   </a>
 </p>
 
-<br clear="left" />
+</td>
+<td width="45%" align="center" valign="center">
+
+<img src="https://media1.tenor.com/m/Q2pBPCaR_tcAAAAC/piza-ninjas-pizzaninjas.gif" width="280" />
+
+</td>
+</tr>
+</table>
 
 ---
 
