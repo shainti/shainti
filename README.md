@@ -3,7 +3,7 @@
 <td width="55%" valign="top">
 
 <h1>Hi 👋, I'm Shainti</h1>
-<h3>Full-Stack Developer · MERN Stack · AI/LLM Integration</h3>
+<h3>Full-Stack Developer ·  AI/LLM Integration</h3>
 <p><em>Building scalable web apps and integrating AI into real products</em></p>
 
 - 🔭 Building **[Collegian X](https://collegianx.vercel.app)** — AI study planner with LLM integration
