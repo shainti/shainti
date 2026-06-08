@@ -69,7 +69,7 @@
           <td align="center"><img src="https://skillicons.dev/icons?i=html" width="48" height="48"/><br>HTML</td>
           <td align="center"><img src="https://skillicons.dev/icons?i=css" width="48" height="48"/><br>CSS</td>
           <td align="center"><img src="https://skillicons.dev/icons?i=react" width="48" height="48"/><br>React</td>
-          <td align="center"><img src="https://skillicons.dev/icons?i=next" width="48" height="48"/><br>Next.js</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48"/><br>Next.js</td>
           <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48"/><br>Tailwind CSS</td>
           <td align="center"><img src="https://skillicons.dev/icons?i=redux" width="48" height="48"/><br>Redux</td>
           <td align="center"><img src="https://skillicons.dev/icons?i=vite" width="48" height="48"/><br>Vite</td>
@@ -86,7 +86,7 @@
         <tr>
           <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48"/><br>Node.js</td>
           <td align="center"><img src="https://skillicons.dev/icons?i=express" width="48" height="48"/><br>Express</td>
-          <td align="center"><img src="https://skillicons.dev/icons?i=socketio" width="48" height="48"/><br>Socket.IO</td>
+          <td align="center"><img src="https://cdn.simpleicons.org/socketdotio/010101" width="48" height="48"/><br>Socket.IO</td>
           <td align="center"><img src="https://skillicons.dev/icons?i=prisma" width="48" height="48"/><br>Prisma</td>
         </tr>
       </table>
@@ -99,8 +99,8 @@
     <td>
       <table>
         <tr>
-          <td align="center"><img src="https://skillicons.dev/icons?i=openai" width="48" height="48"/><br>OpenAI GPT</td>
-          <td align="center"><img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48"/><br>Groq LLaMA</td>
+          <td align="center"><img src="https://cdn.simpleicons.org/openai/412991" width="48" height="48"/><br>OpenAI GPT</td>
+          <td align="center"><img src="https://cdn.simpleicons.org/groq/F55036" width="48" height="48"/><br>Groq LLaMA</td>
         </tr>
       </table>
     </td>
@@ -189,8 +189,8 @@
   <tr>
     <td align="center"><a href="https://linkedin.com/in/shainti" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48"/><br>LinkedIn</a></td>
     <td align="center"><a href="https://instagram.com/shainti_codes" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="48" height="48"/><br>Instagram</a></td>
-    <td align="center"><a href="https://www.youtube.com/c/shainti_codes" target="_blank"><img src="https://skillicons.dev/icons?i=youtube" width="48" height="48"/><br>YouTube</a></td>
-    <td align="center"><a href="https://www.leetcode.com/samkashyap" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" width="48" height="48"/><br>LeetCode</a></td>
+    <td align="center"><a href="https://www.youtube.com/c/shainti_codes" target="_blank"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="48" height="48"/><br>YouTube</a></td>
+    <td align="center"><a href="https://www.leetcode.com/samkashyap" target="_blank"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48" height="48"/><br>LeetCode</a></td>
     <td align="center"><a href="https://github.com/shainti" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="48" height="48"/><br>GitHub</a></td>
   </tr>
 </table>
