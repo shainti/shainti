@@ -7,7 +7,6 @@
 <p><em>Building scalable web apps and integrating AI into real-world products</em></p>
 
 - 🌱 Currently learning **Next.js**, **RAG pipelines**, and **System Design**
-- 💬 Ask me about **React, Node.js, REST APIs, AI/LLM Integration, Docker**
 - 📁 Portfolio → [shainti.vercel.app](https://shainti.vercel.app)
 - 💼 Freelancing → [sandysource.vercel.app](https://sandysource.vercel.app)
 - 📫 **shaintykashyap@gmail.com**
