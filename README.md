@@ -149,7 +149,6 @@
     <td align="center"><a href="https://instagram.com/shainti_codes" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="48" height="48"/><br>Instagram</a></td>
     <td align="center"><a href="https://www.youtube.com/c/shainti_codes" target="_blank"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="48" height="48"/><br>YouTube</a></td>
     <td align="center"><a href="https://www.leetcode.com/samkashyap" target="_blank"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48" height="48"/><br>LeetCode</a></td>
-    <td align="center"><a href="https://github.com/shainti" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="48" height="48"/><br>GitHub</a></td>
   </tr>
 </table>
 
