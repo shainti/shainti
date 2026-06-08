@@ -7,7 +7,6 @@
 <p><em>Building scalable web apps and integrating AI into real-world products</em></p>
 
 - 🌱 Currently learning **Next.js**, **RAG pipelines**, and **System Design**
-- 💬 Ask me about **React, Node.js, REST APIs, AI/LLM Integration, Docker**
 - 📁 Portfolio → [shainti.vercel.app](https://shainti.vercel.app)
 - 💼 Freelancing → [sandysource.vercel.app](https://sandysource.vercel.app)
 - 📫 **shaintykashyap@gmail.com**
@@ -20,10 +19,7 @@
 </table>
 
 ---
-
-# Skills
-
-> ## Top Skills
+# technical Skills
 
 <table>
   <tr>
@@ -102,7 +98,7 @@
       <table>
         <tr>
           <td align="center"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="48"/><br>OpenAI GPT</td>
-          <td align="center"><img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" height="48"/><br>Groq LLaMA</td>
+ <td align="center"><img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48"/><br>Groq LLaMA</td>
         </tr>
       </table>
     </td>
