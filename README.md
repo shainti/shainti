@@ -99,8 +99,8 @@
     <td>
       <table>
         <tr>
-          <td align="center"><img src="https://cdn.simpleicons.org/openai/412991" width="48" height="48"/><br>OpenAI GPT</td>
-          <td align="center"><img src="https://cdn.simpleicons.org/groq/F55036" width="48" height="48"/><br>Groq LLaMA</td>
+          <td align="center"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="48"/><br>OpenAI GPT</td>
+          <td align="center"><img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" height="48"/><br>Groq LLaMA</td>
         </tr>
       </table>
     </td>
@@ -145,7 +145,7 @@
           <td align="center"><img src="https://skillicons.dev/icons?i=git" width="48" height="48"/><br>Git</td>
           <td align="center"><img src="https://skillicons.dev/icons?i=github" width="48" height="48"/><br>GitHub</td>
           <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48"/><br>Vercel</td>
-          <td align="center"><img src="https://skillicons.dev/icons?i=render" width="48" height="48"/><br>Render</td>
+          <td align="center"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" height="48"/><br>Render</td>
         </tr>
       </table>
     </td>
