@@ -21,10 +21,7 @@
 
 ---
 
-# Skills
-
-> ## All Skills
-
+# Technical Skills
 <table>
   <tr>
     <th>Category</th>
