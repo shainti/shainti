@@ -6,28 +6,11 @@
 <h3>Full-Stack Developer · AI/LLM Integration</h3>
 <p><em>Building scalable web apps and integrating AI into real-world products</em></p>
 
-- 🔭 Building **[Collegian X](https://collegianx.vercel.app)** — AI-powered student management platform with 100+ active users
-- 🤖 Currently working on a **Cold Email Lead Generation System** using Groq LLaMA + Node.js
-- 🌱 Deepening expertise in **Next.js**, **RAG pipelines**, and **System Design**
+- 🌱 Currently learning **Next.js**, **RAG pipelines**, and **System Design**
 - 💬 Ask me about **React, Node.js, REST APIs, AI/LLM Integration, Docker**
 - 📁 Portfolio → [shainti.vercel.app](https://shainti.vercel.app)
 - 💼 Freelancing → [sandysource.vercel.app](https://sandysource.vercel.app)
 - 📫 **shaintykashyap@gmail.com**
-
-<p>
-  <a href="https://linkedin.com/in/shainti" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/shainti_codes" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/c/shainti_codes" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://www.leetcode.com/samkashyap" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-</p>
 
 </td>
 <td width="45%" align="center" valign="center">
@@ -196,6 +179,20 @@
     </td>
   </tr>
 
+</table>
+
+---
+
+# Connect
+
+<table>
+  <tr>
+    <td align="center"><a href="https://linkedin.com/in/shainti" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48"/><br>LinkedIn</a></td>
+    <td align="center"><a href="https://instagram.com/shainti_codes" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="48" height="48"/><br>Instagram</a></td>
+    <td align="center"><a href="https://www.youtube.com/c/shainti_codes" target="_blank"><img src="https://skillicons.dev/icons?i=youtube" width="48" height="48"/><br>YouTube</a></td>
+    <td align="center"><a href="https://www.leetcode.com/samkashyap" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" width="48" height="48"/><br>LeetCode</a></td>
+    <td align="center"><a href="https://github.com/shainti" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="48" height="48"/><br>GitHub</a></td>
+  </tr>
 </table>
 
 ---
