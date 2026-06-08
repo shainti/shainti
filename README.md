@@ -100,7 +100,7 @@
       <table>
         <tr>
           <td align="center"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="48"/><br>OpenAI GPT</td>
-          <td align="center"><img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" height="48"/><br>Groq LLaMA</td>
+                  <td align="center"><img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48"/><br>Groq LLaMA</td>
         </tr>
       </table>
     </td>
