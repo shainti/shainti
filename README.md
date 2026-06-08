@@ -6,7 +6,7 @@
 <h3>Full-Stack Developer · AI/LLM Integration</h3>
 <p><em>Building scalable web apps and integrating AI into real-world products</em></p>
 
-- 🔭 Building **[Collegian X](https://collegianx.vercel.app)** — AI-powered student management platform with LLM integration & 100+ active users
+- 🔭 Building **[Collegian X](https://collegianx.vercel.app)** — AI-powered student management platform with 100+ active users
 - 🤖 Currently working on a **Cold Email Lead Generation System** using Groq LLaMA + Node.js
 - 🌱 Deepening expertise in **Next.js**, **RAG pipelines**, and **System Design**
 - 💬 Ask me about **React, Node.js, REST APIs, AI/LLM Integration, Docker**
@@ -38,67 +38,165 @@
 
 ---
 
-### 🛠️ Tech Stack
+# Skills
 
-**Frontend**
+> ## Top Skills
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="48" height="48"/><br>React</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48"/><br>Node.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48"/><br>TypeScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48"/><br>Docker</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48"/><br>MongoDB</td>
+  </tr>
+</table>
 
-**Backend**
+> ## All Skills
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Nodemailer](https://img.shields.io/badge/Nodemailer-22B573?style=for-the-badge&logo=gmail&logoColor=white)
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Skills</th>
+  </tr>
 
-**AI / LLM Integration**
+  <!-- Programming Languages -->
+  <tr>
+    <td><b>Programming Languages</b></td>
+    <td>
+      <table>
+        <tr>
+          <td align="center"><img src="https://skillicons.dev/icons?i=c" width="48" height="48"/><br>C</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48"/><br>C++</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=js" width="48" height="48"/><br>JavaScript</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48"/><br>TypeScript</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=py" width="48" height="48"/><br>Python</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48"/><br>SQL</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
 
-![OpenAI](https://img.shields.io/badge/OpenAI_GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq_LLaMA-F55036?style=for-the-badge&logo=llama&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-6DB33F?style=for-the-badge&logo=databricks&logoColor=white)
+  <!-- Frontend Development -->
+  <tr>
+    <td><b>Frontend Development</b></td>
+    <td>
+      <table>
+        <tr>
+          <td align="center"><img src="https://skillicons.dev/icons?i=html" width="48" height="48"/><br>HTML</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=css" width="48" height="48"/><br>CSS</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=react" width="48" height="48"/><br>React</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=next" width="48" height="48"/><br>Next.js</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48"/><br>Tailwind CSS</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=redux" width="48" height="48"/><br>Redux</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=vite" width="48" height="48"/><br>Vite</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
 
-**Database**
+  <!-- Backend Development -->
+  <tr>
+    <td><b>Backend Development</b></td>
+    <td>
+      <table>
+        <tr>
+          <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48"/><br>Node.js</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=express" width="48" height="48"/><br>Express</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=socketio" width="48" height="48"/><br>Socket.IO</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=prisma" width="48" height="48"/><br>Prisma</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+  <!-- AI / LLM Integration -->
+  <tr>
+    <td><b>AI / LLM Integration</b></td>
+    <td>
+      <table>
+        <tr>
+          <td align="center"><img src="https://skillicons.dev/icons?i=openai" width="48" height="48"/><br>OpenAI GPT</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48"/><br>Groq LLaMA</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
 
-**DevOps & Tools**
+  <!-- Databases -->
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <table>
+        <tr>
+          <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48"/><br>MongoDB</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48"/><br>PostgreSQL</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48"/><br>MySQL</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
 
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-239120?style=for-the-badge&logo=azurepipelines&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+  <!-- Testing -->
+  <tr>
+    <td><b>Testing</b></td>
+    <td>
+      <table>
+        <tr>
+          <td align="center"><img src="https://skillicons.dev/icons?i=jest" width="48" height="48"/><br>Jest</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48"/><br>Postman</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
 
-**Testing**
+  <!-- DevOps & Tools -->
+  <tr>
+    <td><b>DevOps & Tools</b></td>
+    <td>
+      <table>
+        <tr>
+          <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48"/><br>Docker</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48"/><br>Kubernetes</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48"/><br>GitHub Actions</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=git" width="48" height="48"/><br>Git</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=github" width="48" height="48"/><br>GitHub</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48"/><br>Vercel</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=render" width="48" height="48"/><br>Render</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
 
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  <!-- Development Environments -->
+  <tr>
+    <td><b>Development Environments</b></td>
+    <td>
+      <table>
+        <tr>
+          <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48"/><br>VS Code</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=notion" width="48" height="48"/><br>Notion</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=md" width="48" height="48"/><br>Markdown</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
 
----
+  <!-- Operating Systems -->
+  <tr>
+    <td><b>Operating Systems</b></td>
+    <td>
+      <table>
+        <tr>
+          <td align="center"><img src="https://skillicons.dev/icons?i=windows" width="48" height="48"/><br>Windows</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48"/><br>Ubuntu</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48"/><br>Linux</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
 
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 🎓 [**Collegian X**](https://collegianx.vercel.app) | AI-powered college management platform — 100+ active users, AI Study Planner, JWT auth, real-time faculty management | React, Node.js, MongoDB, OpenAI GPT, Docker |
-| 🤖 [**AI Code Review Bot**](https://github.com/shainti) | GitHub webhook bot that auto-reviews PRs using Groq LLaMA — posts review comments in under 15 seconds | Node.js, Groq SDK, GitHub API, Render |
-| 🍕 [**AryaMeals**](https://aryameals.com) | Client food delivery platform — full backend, REST API design, and database modeling | Node.js, Express, MongoDB, HTML/CSS |
+</table>
 
 ---
 
