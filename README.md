@@ -23,18 +23,6 @@
 
 # Skills
 
-> ## Top Skills
-
-<table>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="48" height="48"/><br>React</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48"/><br>Node.js</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48"/><br>TypeScript</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48"/><br>Docker</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48"/><br>MongoDB</td>
-  </tr>
-</table>
-
 > ## All Skills
 
 <table>
