@@ -179,11 +179,3 @@
     <td align="center"><a href="https://github.com/shainti" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="48" height="48"/><br>GitHub</a></td>
   </tr>
 </table>
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shainti&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
